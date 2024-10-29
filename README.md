@@ -2,7 +2,7 @@
 - 👀 I’m interested in Material Science, Physics, Fusion, Data analysis, Shock Phenomena, FEM
 - 🌱 I’m currently learning DFT, ML, Potential Dev
 - 💞️ I’m looking to collaborate on Data Analysis, Molecular Dynamics, DFT, Shock, FEM
-- 📫 How to reach me email
+- 📫 Reach me with email
 - ⚡ Fun fact: Expert in chess
 
 <!---
